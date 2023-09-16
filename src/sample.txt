@@ -1,0 +1,269 @@
+// 20230916023242
+// https://newsapi.org/v2/top-headlines?country=in&apiKey=bd302062e14944dd94a3ed72b0420557
+
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Horoscope, September 15, 2023: Check astrological prediction for Gemini, Cancer and other signs - The Indian Express",
+      "description": null,
+      "url": "https://indianexpress.com/article/horoscope/horoscope-september-15-2023-check-astrological-prediction-for-gemini-cancer-and-other-signs-8935140/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-14T20:08:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Sports Desk",
+      "title": "How Sri Lanka pipped Pakistan in last-over thriller to set up Asia Cup final with India - Times of India",
+      "description": "Cricket News: Top-order batter Kusal Mendis conjured a match-defining 91 as he along with Sadeera Samarawickrama and Charith Asalanka guided Sri Lanka to the Asia C",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/how-sri-lanka-pipped-pakistan-in-last-over-thriller-to-set-up-asia-cup-final-with-india/articleshow/103673099.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103673094,width-1070,height-580,imgsize-72434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-14T20:04:00Z",
+      "content": "Top-5: Fastest Indian bowlers to 150 ODI wickets"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Pakistan vs Sri Lanka Highlights, Asia Cup 2023: Sri Lanka Set Up Asia Cup Final vs India By Beating Pakistan In Tense Game - NDTV Sports",
+      "description": "Pakistan vs Sri Lanka Highlights, Asia Cup 2023: Top knocks from Kusal Mendis and Charith Asalanka guided Sri Lanka to a thrilling two-wicket win over Pakistan in the Asia Cup Super 4 match",
+      "url": "https://sports.ndtv.com/asia-cup-2023/pakistan-vs-sri-lanka-live-score-asia-cup-2023-super-4-pak-vs-sl-latest-updates-4388414",
+      "urlToImage": "https://c.ndtvimg.com/2023-09/gajeh1a8_sri-lanka_625x300_15_September_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2023-09-14T19:37:47Z",
+      "content": "PAK vs SL Highlights, Asia Cup 2023 Super 4: Top knocks from Kusal Mendis and Charith Asalanka guided Sri Lanka to a thrilling two-wicket win over Pakistan in the Asia Cup Super 4 match on Thursday i… [+519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jared Malsin",
+      "title": "Libya Flood Disaster That Killed Thousands Was Decades in Making | Mint - Mint",
+      "description": "The dams that collapsed in the storm had received no maintenance in more than 20 years despite repeated warnings over flooding.",
+      "url": "https://www.livemint.com/news/libya-flood-disaster-that-killed-thousands-was-decades-in-making-11694715560366.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/14/600x338/im-851975_1694715564323_1694715595625.jpg",
+      "publishedAt": "2023-09-14T18:21:00Z",
+      "content": "A Mediterranean city dotted with historic mosques and the ruins of a nearby Byzantine church, Derna was once a haven for artists and intellectuals in Libya. Now, it is a wasteland after a deadly stor… [+8186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WION"
+      },
+      "author": "WION Web Team",
+      "title": "Aditya-L1 mission: ISRO gears up to carry out fourth manoeuvre tonight - WION",
+      "description": "Aditya-L1 mission: ISRO gears up to carry out fourth manoeuvre on Sept 15",
+      "url": "https://www.wionews.com/science/aditya-l1-mission-isro-gears-up-to-carry-out-fourth-manoeuvre-tonight-636051",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/2023/07/28/369966-adital1.jpg",
+      "publishedAt": "2023-09-14T17:52:26Z",
+      "content": "The Indian Space Research Organisation (ISRO) is gearing up to carry out the fourth earth-bound manoeuvre in its Aditya-L1 mission. The manoeuvre will take place at 2 am IST on September 15 (2330 GMT… [+1932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Joe Biden's Son Indicted For Illegally Buying Guns While On Drugs - NDTV",
+      "description": "US President Joe Biden's son Hunter was indicted Thursday for illegally buying a gun five years ago at a time when he admits he was using drugs heavily.",
+      "url": "https://www.ndtv.com/world-news/president-bidens-son-hunter-biden-indicted-on-gun-charge-news-agency-afp-4391040",
+      "urlToImage": "https://c.ndtvimg.com/2020-12/7odfp46s_hunter-biden-afp_625x300_10_December_20.jpg",
+      "publishedAt": "2023-09-14T17:50:49Z",
+      "content": "Hunter Biden has been hit with criminal gun charge (File)\r\nWashington: US President Joe Biden's son Hunter was indicted Thursday for illegally buying a gun five years ago at a time when he admits he … [+328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Gulveen Aulakh",
+      "title": "‘All smartphones to have NavIC by December 2025’ | Mint - Mint",
+      "description": "All smartphones to support NavIC by end-2025, says Indian minister after Apple's adoption.",
+      "url": "https://www.livemint.com/news/india/all-smartphones-to-have-navic-by-december-2025-11694712552783.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/14/600x338/PTI09-05-2023-000257B-0_1694712861521_1694712881069.jpg",
+      "publishedAt": "2023-09-14T17:44:31Z",
+      "content": "New Delhi: All smartphones will have to support NavIC by the end of 2025, minister of state for electronics and information technology Rajeev Chandrasekhar said after Apple successfully supported the… [+3114 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Matt Roller",
+      "title": "Jason Roy loses his England ODI record; will it be his World Cup place next? - ESPNcricinfo",
+      "description": "Batter can only wait and hope after back spasm keeps him on sidelines during Stokes onslaught",
+      "url": "https://www.espncricinfo.com/story/eng-vs-nz-jason-roy-loses-his-england-odi-record-will-it-be-his-world-cup-place-next-1398203",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/367100/367123.6.jpg",
+      "publishedAt": "2023-09-14T17:43:43Z",
+      "content": "Jason Roy's place in England's World Cup squad is not yet nailed on  •  Gareth Copley/ECB/Getty Images"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Health Secretary issues directives to ramp up anti-dengue drive in Tamil Nadu - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/news/cities/chennai/health-secretary-issues-directive-to-ramp-up-anti-dengue-drive-in-tamil-nadu/article67308344.ece",
+      "urlToImage": null,
+      "publishedAt": "2023-09-14T16:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Mallika Soni",
+      "title": "NASA UAP report: Long-awaited findings on UFOs released. Details - Hindustan Times",
+      "description": "NASA UFO report LIVE Updates: NASA's UFO report has been released. Catch all the details here",
+      "url": "https://www.hindustantimes.com/world-news/nasa-ufo-report-live-updates-scientists-releases-uap-findings-101694699097884.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/14/1600x900/ASTRA-SPACE-MISSION--0_1655078888645_1694699160005.JPG",
+      "publishedAt": "2023-09-14T16:37:37Z",
+      "content": "NASA UFO report LIVE Updates: NASA released its findings from a long-awaited study on unexplained flying objects. The US space agency announced last year that it was reviewing evidence regarding unid… [+14099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Jawan box office collection Day 8: Shah Rukh Khan film inches towards ₹400 cr - Hindustan Times",
+      "description": "Shah Rukh Khan's Jawan continues its momentous run at the domestic box office as it seems to have raked in ₹19.50 crore across languages on second Thursday. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/jawan-box-office-collection-day-8-shah-rukh-khan-film-inches-closer-to-rs-400-cr-in-india-101694706693822.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/14/1600x900/jawan_shah_rukh_khan_1694665318017_1694707018675.jpeg",
+      "publishedAt": "2023-09-14T16:29:42Z",
+      "content": "After rounding off its opening week in India across Hindi, Tamil, and Telugu at 369.22 crore at the box office, Shah Rukh Khan's action thriller Jawan continues its unstoppable run on its second Thur… [+1903 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Caught on CCTV: UP Roadways bus falls off Delhi-Meerut expressway in Ghaziabad - Times of India",
+      "description": "A tragic road accident occurred in Ghaziabad, Uttar Pradesh, as a state-owned Uttar Pradesh Roadways bus malfunctioned and veered off the Delhi-Meerut Expressway. The incident, captured on CCTV, shows the bus losing control and falling from the eleva",
+      "url": "https://timesofindia.indiatimes.com/videos/toi-original/caught-on-cctv-up-roadways-bus-falls-off-delhi-meerut-expressway-in-ghaziabad/videoshow/103670287.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-103670287,imgsize-646277.cms",
+      "publishedAt": "2023-09-14T15:39:30Z",
+      "content": "Sep 14, 2023, 09:09PM ISTSource: TOI.inA tragic road accident occurred in Ghaziabad, Uttar Pradesh, as a state-owned Uttar Pradesh Roadways bus malfunctioned and veered off the Delhi-Meerut Expresswa… [+333 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "SAT questions Sebi's credibility on completion of investigations in Zee matter within stipulated time - The Economic Times",
+      "description": "The Securities Appellate Tribunal (SAT) has questioned the credibility of the Securities and Exchange Board of India (SEBI) in completing its investigation into alleged fund misappropriation by Zee Entertainment Enterprises. SAT stated that SEBI has a history…",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/sat-questions-sebis-credibility-on-completion-of-investigations-in-zee-matter-within-stipulated-time/articleshow/103670283.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103670297,width-1070,height-580,imgsize-27810,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-14T15:39:00Z",
+      "content": "The Securities Appellate Tribunal (SAT) on Thursday questioned market regulator Sebi's credibility on completing its investigation within a stipulated time in the Zee Entertainment Enterprises' (ZEEL… [+2910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greater Kashmir"
+      },
+      "author": "GK Web Desk",
+      "title": "LG lays wreath to pay homage to army officers slain in Anantnag gunfight - Greater Kashmir",
+      "description": "Srinagar, Sep 14: Lieutenant Governor Manoj Sinha laid a wreath and paid homage to Col Manpreet Singh and Major Aashish Dhonchak, who made supreme sacrifice in",
+      "url": "https://www.greaterkashmir.com/latest-news/lg-lays-wreath-to-pay-homage-to-army-officers-slain-in-anantnag-gunfight",
+      "urlToImage": "https://gumlet.assettype.com/greaterkashmir%2F2023-09%2F9f0d69ba-ac21-47db-a358-b5f2e11fc747%2F94037e40_0127_4588_ad47_ed97b62a0a93.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-09-14T15:38:47Z",
+      "content": "Srinagar, Sep 14: Lieutenant Governor Manoj Sinha laid a wreath and paid homage to Col Manpreet Singh and Major Aashish Dhonchak, who made supreme sacrifice in an operation against terrorists in Anan… [+4 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Aathira Varier",
+      "title": "RBI releases list of 15 NBFCs in upper layer under scale based regulations - Business Standard",
+      "description": "All deposit-taking NBFCs and non-deposit-taking NBFCs with an asset size over Rs 1,000 crore are in the middle layer",
+      "url": "https://www.business-standard.com/companies/news/rbi-names-15-nbfcs-in-upper-layer-under-scale-based-regulation-for-fy24-123091401292_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684218476-8234.jpg",
+      "publishedAt": "2023-09-14T15:23:12Z",
+      "content": "All deposit-taking NBFCs and non-deposit-taking NBFCs with an asset size over Rs 1,000 crore are in the middle layer\r\nRepresentative Image (Photo: Bloomberg)\r\nAathira VarierMumbai\r\nThe Reserve Bank o… [+2569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "‘Emergency 2.0’: Anurag Thakur slams I.N.D.I.A over list boycotting news anchors - Hindustan Times",
+      "description": "The media committee of the I.N.D.I.A bloc prepared a list of anchors whose shows the spokespersons and leaders will not attend. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/emergency-2-0-union-minister-anurag-thakur-slams-i-n-d-i-a-blocs-list-boycotting-news-anchors-101694702381676.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/14/1600x900/Union-minister-Anurag-Thakur--File-Photo-_1694004059800_1694703155934.jpg",
+      "publishedAt": "2023-09-14T15:00:27Z",
+      "content": "Union minister Anurag Thakur on Thursday hit out at the opposition bloc I.N.D.I.A over its decision to boycott certain television news anchors. While speaking to reporters in poll-bound Rajasthan, Th… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "New variant of chickenpox in India; know the symptoms and prevention tips - Times of India Videos - Times of India",
+      "description": "A new variant of chickenpox-causing virus has been identified in India. Watch this video to learn all about Clade 9, the new variant of Varicella-zoster virus (VZV) that causes chickenpox.",
+      "url": "https://timesofindia.indiatimes.com/videos/lifestyle/health-fitness/new-variant-of-chickenpox-in-india-know-the-symptoms-and-prevention-tips/videoshow/103669467.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-103669467,imgsize-136488.cms",
+      "publishedAt": "2023-09-14T14:50:27Z",
+      "content": "Sep 14, 2023, 08:20PM ISTSource: TIMESOFINDIA.COMA new variant of chickenpox-causing virus has been identified in India. Watch this video to learn all about Clade 9, the new variant of Varicella-zost… [+37 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "\"Won't Legitimise Hate Narrative\": Congress Announces Anchor Boycott List - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-09-14T14:41:18Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "Nagarjun Dwarakanath",
+      "title": "Private jet crash lands at Mumbai airport amid heavy rain, 8 on board - India Today",
+      "description": "An aircraft carrying eight passengers was seen crash landing at Mumbai airport on Thursday. No casualties have been reported yet.",
+      "url": "https://www.indiatoday.in/india/story/private-jet-skids-off-mumbai-airport-runaway-2435725-2023-09-14",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/mumbai-plane-crash-145538573-16x9.jpeg?VersionId=o0gWpT1P5vA_9oqgJCFbXFr164UCGZJT",
+      "publishedAt": "2023-09-14T14:15:30Z",
+      "content": "An aircraft was seen crash landing at Mumbai airport runway on Thursday. The flight, carrying six passengers and two crew members, was travelling from Visakhapatnam to Mumbai.\r\n“VSR Ventures Learjet … [+1090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bar & Bench - Indian Legal News"
+      },
+      "author": "Ratna Singh",
+      "title": "Gyanvapi - Kashi Vishwanath case: Varanasi court directs ASI to hand over items recovered during survey to District Magistrate - Bar & Bench - Indian Legal News",
+      "description": "A Varanasi court Wednesday directed the Archaeological Survey of India (ASI) to hand over possession of all historically significant objects recovered during on",
+      "url": "https://www.barandbench.com/news/gyanvapi-kashi-vishwanath-case-varanasi-court-directs-asi-items-survey-district-magistrate",
+      "urlToImage": "https://gumlet.assettype.com/barandbench%2F2022-05%2F86e546b0-6140-4492-baac-6bb59df07481%2F02.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-09-14T14:04:28Z",
+      "content": "The case began when Hindu devotees approached a civil court seeking the right to worship inside Gyanvapi Mosque, claiming that it was a Hindu temple and still houses Hindu deities.\r\nThe district cour… [+1412 chars]"
+    }
+  ]
+}
